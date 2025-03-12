@@ -42,7 +42,7 @@
 Clone the project from GitHub:
 
 ```
-git clone https://github.com/yourusername/trip-planner.git
+git clone https://github.com/Jasirmd/trip-planner.git
 cd trip-planner
 ```
 
@@ -121,7 +121,7 @@ These errors usually mean the backend is not reachable or you are using the wron
 ## Environment Variables:
 Ensure that your API keys are correctly set in your environment so that the APIs (Gemini and Google Maps) work as expected.
 
-### Summary
+## Summary
 
 AI Travel Planner helps you plan trips by generating a detailed itinerary and showing additional travel information like hotels and flights. The backend uses FastAPI to process data and call external APIs, while the frontend uses Streamlit to create a user-friendly interface. You can run this project locally by setting up virtual environments, installing dependencies, setting environment variables, and starting both the backend and frontend.
 
