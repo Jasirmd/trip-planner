@@ -1,0 +1,50 @@
+{
+  "Bengaluru-Dubai": [
+    {
+      "airline": "Emirates",
+      "flight_number": "EK567",
+      "departure": "10:30 AM",
+      "arrival": "1:15 PM",
+      "duration": "4h 15m",
+      "price": "$450",
+      "stops": "Non-stop",
+      "aircraft": "Boeing 777-300ER",
+      "amenities": ["Wi-Fi", "Entertainment", "Meals"]
+    },
+    {
+      "airline": "Etihad Airways",
+      "flight_number": "EY217",
+      "departure": "2:45 PM",
+      "arrival": "5:30 PM",
+      "duration": "4h 15m",
+      "price": "$425",
+      "stops": "Non-stop",
+      "aircraft": "Airbus A380-800",
+      "amenities": ["Wi-Fi", "Entertainment", "Meals"]
+    }
+  ],
+  "Bengaluru-London": [
+    {
+      "airline": "British Airways",
+      "flight_number": "BA118",
+      "departure": "6:30 AM",
+      "arrival": "12:45 PM",
+      "duration": "10h 45m",
+      "price": "$750",
+      "stops": "Non-stop",
+      "aircraft": "Boeing 787-9",
+      "amenities": ["Wi-Fi", "Entertainment", "Meals"]
+    },
+    {
+      "airline": "Air India",
+      "flight_number": "AI175",
+      "departure": "9:15 PM",
+      "arrival": "3:30 AM",
+      "duration": "10h 45m",
+      "price": "$680",
+      "stops": "Non-stop",
+      "aircraft": "Boeing 787-8",
+      "amenities": ["Entertainment", "Meals"]
+    }
+  ]
+}
